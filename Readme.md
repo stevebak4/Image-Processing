@@ -1,4 +1,8 @@
-# Project Folder Contents
+
+
+# Project title: Image Processing with Convolutional Neural Networks (CNN’s) and using VGG19 to implement Van Gogh style on any picture
+
+## Project Folder Contents
 
 This folder contains the resources and materials used in our style transfer project, where we applied neural style transfer techniques to combine the artistic style of one image with the content of another.
 
